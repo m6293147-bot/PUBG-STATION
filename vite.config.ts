@@ -6,8 +6,8 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    // السطر الأهم لعمل الدومين المجاني على جيت هاب
-    base: 'https://m6293147-bot.github.io/PUBG-STATION/', 
+    // السطر الأهم لعمل الدومين المجاني على جيت هاب (المسار النسبي)
+    base: '/PUBG-STATION/', 
     
     plugins: [react(), tailwindcss()],
     define: {
