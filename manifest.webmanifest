@@ -1,0 +1,23 @@
+{
+  "name": "PUBG STATION - مساعد ببجي العنكبوت",
+  "short_name": "العنكبوت",
+  "description": "ببجي ستيشن العنكبوت هو دليلك الشامل لخدمات ببجي موبايل: شحن حسابات ببجي، تحميل ببجي للايفون، ببجي المعدلة، هكر ببجي ايفون، وآخر تحديثات ببجي موبايل بأمان وسرعة.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRQqanQXWxtT5_heW0qTYGtbm0hKXH0NXdT6w7VG38FKiK6wZAJkC6Eh5vL5lxIsvmhPwPj0rJ5v7Hp0M2SrMp0dDXo1I0gEV7_n2N0xe8_hMgxP3gUyaMXvAV-4yHRltWyoeyt3eLlqk7sKahZZW2cqBVJEvJbq6gBjYVPbFzdzxcaIkp1hH0-dFuJp7/s192/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%285%29.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRQqanQXWxtT5_heW0qTYGtbm0hKXH0NXdT6w7VG38FKiK6wZAJkC6Eh5vL5lxIsvmhPwPj0rJ5v7Hp0M2SrMp0dDXo1I0gEV7_n2N0xe8_hMgxP3gUyaMXvAV-4yHRltWyoeyt3eLlqk7sKahZZW2cqBVJEvJbq6gBjYVPbFzdzxcaIkp1hH0-dFuJp7/s192/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%285%29.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
